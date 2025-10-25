@@ -1,1 +1,1 @@
-# shopify-github-mackallis
+# shopifygithubmackallis
